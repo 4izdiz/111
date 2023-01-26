@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon go (Marowak)
+* source:	https://sketchfab.com/3d-models/pokemon-go-marowak-544b85e4ac944fd1b0e959c1a936b2f9
+* author:	threehoursinhell (https://sketchfab.com/threehoursinhell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon go (Marowak)" (https://sketchfab.com/3d-models/pokemon-go-marowak-544b85e4ac944fd1b0e959c1a936b2f9) by threehoursinhell (https://sketchfab.com/threehoursinhell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
